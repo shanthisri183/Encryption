@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-// Press Shift twice to the open the Search Everywhere dialog and type `show whitespaces`,
+// Press Shift twice to the open the Search Everywhere the  dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.
 public class CaesarCipher {
 
